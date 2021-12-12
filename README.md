@@ -6,7 +6,7 @@ by *Ahmed Yahia Kallel* for ML Zoomcamp.
  * _This work is original and is conducted individually. It has not been fully or partly copied with or without changes from any other place aside from the material from ML Zoomcamp. Any resemblance to other works is purely coincidental._
 * _The final results are not very impressive. The work is done purely to demonstrate my capability to work with a database, clean it, analyze it, use different models with tuning, then deploy the model for prediction in local/local cloud/public cloud. Possible improvements could be to use other algorithms for a better classification. However, the guidelines say that it is sufficient to train and tune the models discussed in the courses (decision trees and linear models), which have been fulfilled during this work._
 
-* Disclaimer: this readme borrows several text from my "midterm project" for the installation and configuration guide.
+* Disclaimer: this readme borrows several installation clarification from my "midterm project" for the installation and configuration guide. No other parts or code are copied, excepting the typical routines (libraries import & data splitting). 
 ---
 
 
